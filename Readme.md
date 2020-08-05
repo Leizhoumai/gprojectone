@@ -33,10 +33,10 @@ Dillinger uses a number of open source projects to work properly:
 
 # Members
 
-*Tommy
-*Jay Dan
-*Diane
-*Enrique
+- Tommy
+- Jay Dan
+- Diane
+- Enrique
 
 
 And of course Dillinger itself is open source with a [public repository][dill]
