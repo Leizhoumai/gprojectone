@@ -29,6 +29,16 @@ Dillinger uses a number of open source projects to work properly:
 * Visual Studio Code - awesome text editor
 * Twitter Bootstrap - great UI boilerplate for modern web apps
 
+### Programmers
+
+# Members
+
+*Tommy
+*Jay Dan
+*Diane
+*Enrique
+
+
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
